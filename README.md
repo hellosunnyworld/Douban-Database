@@ -1,4 +1,6 @@
 # Douban-Database
+This project is completed by Lin Muhan, Liu Quan, Shu Xin, Zhang Yanglin together. It constructed a Douban Database, including data of movies, books and users. There are around 2 million pieces of data in this Mysql Database. We have over 30 data analysis results, as well as a recommendation function.
+
 File Folder Description:
 
 "data" contains the data and Mysql instructions for Douban Database.
