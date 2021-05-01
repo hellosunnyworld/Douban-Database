@@ -1,5 +1,6 @@
 # Douban-Database
 File Folder Description:
+
 "data" contains the data and Mysql instructions for Douban Database.
 "djangoProject" contains all the content of the website.
 "MYSQL-python-1.2.5" is the pymysql package.
@@ -9,6 +10,7 @@ File Folder Description:
 "recommendation" contains Apriori algorithm using R language, specific recommendation codes using Python, and rules.
 
 Usage:
+
 You need to have mysql, pymysql, Django installed on your computer.
 
 (A) Install Douban Database using "data" file folder
