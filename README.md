@@ -27,7 +27,7 @@ You need to have mysql, pymysql, Django installed on your computer.
 Suppose you store this package at D:    
 Then run the following codes in the terminal:    
 
-> cd D:\djangoProject
+> cd D:\djangoProject     
 > python manage.py runserver
 
 Then go to the website http://127.0.0.1:8000/index/
