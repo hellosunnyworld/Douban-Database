@@ -3,13 +3,13 @@ This project is completed by Lin Muhan, Liu Quan, Shu Xin, Zhang Yanglin togethe
 
 ## File Folder Description:
 
-"data" contains the data and Mysql instructions for Douban Database.   
-"djangoProject" contains all the content of the website.    
-"MYSQL-python-1.2.5" is the pymysql package.   
-"recommend_describ" contains the graphs and the Readme file of recommendation program.   
-"snapshots" contains snapshots of the website.   
-"Spider" contains Python Spider codes   
-"recommendation" contains Apriori algorithm using R language, specific recommendation codes using Python, and rules.   
+* "data" contains the data and Mysql instructions for Douban Database.   
+* "djangoProject" contains all the content of the website.    
+* "MYSQL-python-1.2.5" is the pymysql package.   
+* "recommend_describ" contains the graphs and the Readme file of recommendation program.   
+* "snapshots" contains snapshots of the website.   
+* "Spider" contains Python Spider codes   
+* "recommendation" contains Apriori algorithm using R language, specific recommendation codes using Python, and rules.   
 
 ## Usage:
 
